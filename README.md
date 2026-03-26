@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 \# Customer Segmentation \& RFM Analysis (Online Retail)
 
 
@@ -166,6 +170,17 @@ The project follows a structured analytical workflow:
 
 \* Customer value evolves over time, creating opportunities to upgrade mid-tier segments
 
+## Dashboard Preview
+
+### Business Performance Dashboard
+<p align="center">
+  <img src="images/dashboard_business_overview.png" width="800">
+</p>
+
+### Customer Segmentation Dashboard
+<p align="center">
+  <img src="images/dashboard_customer_segmentation.png" width="800">
+</p>
 
 
 \## Recommendations
