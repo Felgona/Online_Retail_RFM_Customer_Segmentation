@@ -1,7 +1,10 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Project](https://img.shields.io/badge/Project-Customer%20Segmentation-blueviolet)
+
+
 \# Customer Segmentation \& RFM Analysis (Online Retail)
 
 
@@ -179,7 +182,7 @@ The project follows a structured analytical workflow:
 
 ### Customer Segmentation Dashboard
 <p align="center">
-  <img src="images/dashboard_customer_segmentation.png" width="800">
+  <img src="images/dashboard_customer_segmentation(1).png" width="800">
 </p>
 
 
