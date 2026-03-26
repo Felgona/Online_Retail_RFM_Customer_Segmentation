@@ -175,12 +175,10 @@ The project follows a structured analytical workflow:
 
 ## Dashboard Preview
 
-### Business Performance Dashboard
 <p align="center">
   <img src="images/dashboard_business_overview.png" width="800">
 </p>
 
-### Customer Segmentation Dashboard
 <p align="center">
   <img src="images/dashboard_customer_segmentation (1).png" width="800">
 </p>
