@@ -5,7 +5,7 @@
 ![Project](https://img.shields.io/badge/Project-Customer%20Segmentation-blueviolet)
 
 
-# Customer Segmentation \& RFM Analysis (Online Retail)
+# Customer Segmentation & RFM Analysis (Online Retail)
 
 
 
@@ -115,17 +115,17 @@ The project follows a structured analytical workflow:
 
 
 
-&#x20; * Champions
+ * Champions
 
-&#x20; * Loyal Customers
+ * Loyal Customers
 
-&#x20; * Potential Loyalists
+ * Potential Loyalists
 
-&#x20; * New Customers
+ * New Customers
 
-&#x20; * At Risk
+ * At Risk
 
-&#x20; * Lost
+ * Lost
 
 
 
@@ -155,7 +155,7 @@ The project follows a structured analytical workflow:
 
 * UK dominates total revenue, while some international markets show higher revenue per customer
 
-* High-value segments (Champions \& Loyal Customers) generate the majority of revenue
+* High-value segments (Champions & Loyal Customers) generate the majority of revenue
 
 
 
@@ -167,7 +167,7 @@ The project follows a structured analytical workflow:
 
 * A large proportion of customers exhibit low engagement and low spending
 
-* Customer value is driven more by sustained behavior (frequency \& spend) than recency alone
+* Customer value is driven more by sustained behavior (frequency & spend) than recency alone
 
 * Significant churn risk exists within the **At Risk** segment
 
@@ -206,11 +206,11 @@ The project follows a structured analytical workflow:
 
 
 
-* Develop a \*\*customer churn prediction model\*\* using RFM features
+* Develop a **customer churn prediction model* using RFM features
 
-* Build a \*\*customer lifetime value (CLV) model\*\*
+* Build a **customer lifetime value (CLV) model*
 
-* Implement \*\*behavioral targeting strategies\*\* for each segment
+* Implement **behavioral targeting strategies* for each segment
 
 * Conduct A/B testing on retention and engagement campaigns
 
@@ -274,7 +274,7 @@ The analysis was conducted in a controlled Python environment to ensure reproduc
 
 
 
-All dependencies are documented in \*\*requirements.txt\*\*.
+All dependencies are documented in **requirements.txt**.
 
 
 
