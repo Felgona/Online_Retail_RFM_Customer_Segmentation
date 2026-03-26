@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Data handling
+data/raw_data/
+!data/processed_data/
