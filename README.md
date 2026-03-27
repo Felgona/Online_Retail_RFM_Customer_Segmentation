@@ -180,7 +180,7 @@ The project follows a structured analytical workflow:
 </p>
 
 <p align="center">
-  <img src="images/dashboard_customer_segmentation (1).png" width="800">
+  <img src="images/dashboard_customer_segmentation.png" width="800">
 </p>
 
 
