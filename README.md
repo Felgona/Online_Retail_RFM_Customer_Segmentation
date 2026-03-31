@@ -48,8 +48,12 @@ This project addresses these gaps by using **RFM-based customer segmentation** t
 ## 🛠 Methodology
 
 
-
 The project follows a structured analytical workflow:
+
+
+### Source of data
+Processed data for analysis is included in **`data/processed_data/`*.  
+Raw data can be downloaded from [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci).
 
 
 
